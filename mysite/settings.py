@@ -25,7 +25,7 @@ SECRET_KEY = 'i-e*4e27kn0=yv!_)v((wu3_^bh1xprigicx4qrc!&t9$*0*_j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['luciananl.pythonanywhere.com']
 
 
 # Application definition
